@@ -1,2 +1,2 @@
 # Calculator
-this calculator my dev project
+this calculator is for my dev project
